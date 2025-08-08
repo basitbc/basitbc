@@ -1,7 +1,7 @@
 # 🚀 Basit Bilal Channa
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20•%20Microservices%20•%20Team%20Leadership&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Senior%20Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20•%20Microservices%20•%20Team%20Leadership&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -14,6 +14,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbchanna@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basitchanna)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917006976393)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
 
 </div>
 
@@ -30,11 +31,14 @@ const BasitChanna = {
         applications_delivered: "50+",
         client_satisfaction: "95%",
         team_size_managed: "8+ developers",
-        uptime_achieved: "99.9%"
+        uptime_achieved: "99.9%",
+        daily_api_requests: "50,000+"
     },
-    current_focus: ["Digital Transformation", "Microservices", "Enterprise Solutions"]
+    current_focus: ["Digital Transformation", "Enterprise Solutions", "Performance Optimization"]
 };
 ```
+
+Results-driven Full Stack MERN Developer with proven track record of building scalable web applications using React.js, Node.js, Express.js, and MongoDB. Expert in RESTful API development, microservices architecture, and cloud deployment (AWS/Azure). Experienced team lead managing multicultural teams in Agile environments, driving digital transformation initiatives with 95% client satisfaction rate.
 
 ---
 
@@ -78,145 +82,20 @@ const BasitChanna = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
 <div align="center">
-
-### 🏆 AI CERTS365 - Blockchain Certificate Platform
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
-
-<div align="left">
-
-**🎯 Project Overview:**  
-Enterprise-grade blockchain certificate generation platform revolutionizing digital credentials for educational institutions across the GCC region.
-
-**⚡ Key Features:**
-- 🔐 **Tamper-Proof Certificates**: Smart contract integration ensuring 100% document authenticity
-- 📊 **Massive Scale**: Serving 50+ educational institutions with 100,000+ certificates issued
-- 🚀 **High Performance**: Processing 10,000+ daily API requests with sub-second response times
-- 🌍 **Global CDN**: 70% latency reduction for international users
-- 🐳 **Containerized Deployment**: Docker containers ensuring consistent environments
-
-**🛠️ Technical Architecture:**
-```
-Frontend: Next.js + React.js + TypeScript
-Backend: Node.js + Express.js + MongoDB
-Blockchain: Smart Contracts + Web3 Integration
-Infrastructure: Docker + Nginx + Azure Cloud
-```
-
-**📈 Business Impact:**
-- ✅ **100% Document Authenticity** through blockchain verification
-- ✅ **Zero Security Breaches** since deployment
-- ✅ **50+ Institution Partnerships** across educational sector
-- ✅ **99.9% Platform Uptime** maintaining service reliability
-
-</div>
-
----
-
-### 🤖 Marvel Minds - AI Job Portal Platform
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
-
-<div align="left">
-
-**🎯 Project Overview:**  
-Revolutionary AI-powered job matching platform connecting job seekers with opportunities using advanced machine learning algorithms and intelligent search capabilities.
-
-**⚡ Key Features:**
-- 🧠 **Smart Job Matching**: ML algorithms achieving 85% job match accuracy
-- 🔍 **Lightning Search**: Elasticsearch enabling sub-second queries across 1M+ job listings
-- 💰 **Revenue Generation**: Integrated premium features generating AED 500K+ monthly
-- 🌐 **Multilingual Support**: Full Arabic and English localization
-- 📱 **Mobile-First Design**: Responsive interface optimized for all devices
-
-**🛠️ Technical Stack:**
-```
-Frontend: React.js + Redux Toolkit + Responsive Design
-Backend: Node.js + Express.js + RESTful APIs
-Database: MongoDB + Elasticsearch + Redis Caching
-ML: Python + TensorFlow + Recommendation Engine
-Payment: Stripe Integration + Subscription Management
-```
-
-**📊 Platform Metrics:**
-- 👥 **50,000+ Active Users** across job seekers and employers
-- 🎯 **1M+ Job Listings** with real-time updates
-- ⚡ **Sub-second Search** response times with advanced filtering
-- 💼 **85% Match Accuracy** through AI-powered recommendations
-- 📈 **500K+ AED Monthly Revenue** from premium subscriptions
-
-**🏆 Technical Achievements:**
-- ✅ Built scalable microservices architecture handling high traffic
-- ✅ Implemented real-time notifications using WebSocket connections
-- ✅ Optimized database queries reducing response time by 60%
-- ✅ Created comprehensive admin dashboard with analytics
-- ✅ Integrated secure payment processing with fraud detection
-
-</div>
-
----
-
-### 🎬 AI Avatar & Audio Generator Platform
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
-
-<div align="left">
-
-**🎯 Project Overview:**  
-Cutting-edge multimedia platform combining AI voice synthesis, avatar animation, and intelligent chatbot capabilities for content creators and businesses.
-
-**⚡ Advanced Features:**
-- 🎙️ **Real-time Voice Synthesis**: High-quality AI voice generation with multiple accents
-- 📹 **Avatar Animation**: Lifelike character animation synchronized with audio
-- 🤖 **Smart Chatbot**: Intelligent conversational AI with context awareness
-- 📊 **Analytics Dashboard**: Comprehensive usage statistics and performance metrics
-- 🔄 **Real-time Processing**: WebSocket connections for live progress tracking
-
-**🛠️ Advanced Architecture:**
-```
-Frontend: React.js + WebRTC + Real-time UI Updates
-Backend: Node.js + Express.js + WebSocket Server
-AI Processing: Python + TensorFlow + OpenAI APIs
-Media Processing: FFmpeg + WebRTC + Stream Processing
-Infrastructure: AWS Lambda + S3 + CloudFront CDN
-Monitoring: Custom Analytics + Performance Tracking
-```
-
-**⚡ Performance Optimizations:**
-- ☁️ **Serverless Computing**: AWS Lambda reducing operational costs by 60%
-- 🎬 **Video Pipeline**: Handling 1,000+ concurrent video generation requests
-- 📡 **Real-time Streaming**: WebSocket implementation for live updates
-- 🚀 **CDN Integration**: Global content delivery with 99.9% availability
-- 💾 **Smart Caching**: Redis implementation for frequently accessed content
-
-**📈 Platform Statistics:**
-- 🎬 **1,000+ Concurrent Requests** handled simultaneously
-- ⚡ **60% Cost Reduction** through serverless architecture
-- 📊 **Real-time Analytics** with custom dashboard
-- 🌍 **Global Reach** with multi-region deployment
-- 🔧 **99.9% Uptime** with automatic failover systems
-
-**🏆 Innovation Highlights:**
-- ✅ Pioneered real-time avatar animation with voice sync
-- ✅ Implemented advanced AI models for natural speech generation
-- ✅ Created scalable video processing pipeline with queue management
-- ✅ Built comprehensive API ecosystem for third-party integrations
-- ✅ Optimized for mobile devices with progressive web app features
-
-</div>
-
-</div>
-
----
-
-## 💼 Professional Journey
 
 ```mermaid
 gantt
@@ -228,41 +107,115 @@ gantt
     NetCom Learning (Senior Frontend)      :active, netcom, 2024-01-01, 2024-12-31
 ```
 
-### 🎯 Current Role: Senior Frontend Developer @ NetCom Learning
-- 🏗️ **Architecture**: MERN stack solutions serving 100,000+ users
-- 👥 **Leadership**: Managing multicultural team of 8 developers
-- 📈 **Performance**: 40% faster load times, 25% user retention increase
-- 🚀 **Impact**: 30% productivity improvement, 50% faster sprint velocity
+</div>
+
+### 🎯 NetCom Learning - Senior Frontend Developer
+**Jan 2024 – Present**
+
+- 🏗️ **Enterprise Architecture**: Built scalable MERN stack solutions serving 100,000+ users with 99.9% uptime
+- 👥 **Team Leadership**: Led cross-functional team of 8 developers from 5 nationalities using Agile methodologies
+- 📈 **Performance Optimization**: Achieved 40% faster load times and 25% increase in user retention through React.js optimization
+- 🚀 **API Development**: Developed RESTful APIs handling 50,000+ daily requests with JWT authentication and rate limiting
+- 📊 **Impact**: 30% productivity improvement and 50% faster sprint velocity
+
+### ⚡ Widski Technologies - Frontend Developer (SDE-II)
+**May 2023 – Jan 2024**
+
+- 🔄 **System Migration**: Migrated monolithic application to microservices architecture with 50+ RESTful APIs
+- 🌐 **Enterprise Solutions**: Built management system using React.js with Next.js SSR, improving SEO rankings by 60%
+- 🗄️ **Database Optimization**: Optimized MongoDB performance, reducing query response times from 2.5s to 300ms
+- 🎯 **Core Web Vitals**: Achieved 95+ Lighthouse scores through advanced optimization techniques
+
+### 🚀 Red Stag Labs - Frontend Software Developer
+**Jan 2021 – Apr 2023**
+
+- 🏆 **Portfolio Development**: Delivered 20+ full-stack MERN applications across e-commerce, fintech, and healthcare
+- 📱 **Responsive Design**: Created mobile-first designs achieving 95+ Google Lighthouse scores
+- ⚡ **Scalable Backend**: Built Node.js backends handling 100,000+ daily API calls with Redis caching
+- 🐳 **Cloud Deployment**: Deployed applications using Docker and Kubernetes across multiple cloud regions
 
 ---
 
-## 🏆 Achievements & Impact
+## 🚀 Featured Projects
+
+### 🏆 AI CERTS365 - Blockchain Certificate Platform
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
+
+**🎯 Enterprise-grade blockchain certificate generation platform serving educational institutions**
+
+**Tech Stack:** Node.js, Next.js, Express.js, MongoDB, Blockchain, Docker, Nginx, Azure
+
+**⚡ Key Achievements:**
+- 🔐 **Blockchain Security**: Smart contracts ensuring 100% document authenticity
+- 📊 **Enterprise Scale**: Serving 50+ educational institutions with 100,000+ certificates issued
+- 🚀 **High Performance**: Processing 10,000+ daily API requests with robust architecture
+- 🌍 **Global Optimization**: CDN implementation reducing latency by 70% across GCC regions
+- 🐳 **DevOps Excellence**: Docker containerization ensuring consistent deployment environments
+
+---
+
+### 🤖 Marvel Minds - AI-Powered Job Portal
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
+
+**🎯 Comprehensive AI-powered job matching platform with machine learning**
+
+**Tech Stack:** Node.js, React.js, MongoDB, Machine Learning, Elasticsearch
+
+**📈 Platform Metrics:**
+- 👥 **50,000+ Active Users** across job seekers and employers
+- 🔍 **1M+ Job Listings** with sub-second Elasticsearch queries
+- 🎯 **85% Match Accuracy** through ML recommendation engine
+- 💰 **AED 500K+ Monthly Revenue** from premium features
+- 🌐 **Multilingual Support**: Full Arabic and English localization
+
+---
+
+### 🎬 AI Audio & Avatar Video Generator
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
+
+**🎯 Advanced multimedia platform with AI voice synthesis and avatar animation**
+
+**Tech Stack:** Node.js, React.js, Python, AWS Lambda, WebRTC, FFmpeg
+
+**🚀 Technical Achievements:**
+- 🎙️ **AI Voice Synthesis**: Real-time high-quality voice generation with multiple accents
+- 📹 **Avatar Animation**: Lifelike character animation synchronized with audio
+- ☁️ **Serverless Architecture**: AWS Lambda reducing operational costs by 60%
+- ⚡ **Concurrent Processing**: Handling 1,000+ video generation requests simultaneously
+- 📊 **Real-time Analytics**: WebSocket connections for live progress tracking
+
+---
+
+## 🏆 Key Achievements & Metrics
 
 <div align="center">
 
-| Metric | Achievement | Impact |
-|--------|-------------|---------|
-| 🎯 **Applications Delivered** | 50+ Production Apps | 95% Client Satisfaction |
-| 👥 **Team Leadership** | 8+ Developers | 5 Nationalities |
-| ⚡ **Performance Optimization** | 99.9% Uptime | 40% Faster Load Times |
-| 📊 **API Development** | 50,000+ Daily Requests | Enterprise Scale |
-| 🔄 **System Migration** | Monolithic → Microservices | 50+ RESTful APIs |
-| 🌍 **Global Reach** | 70% Latency Reduction | CDN Implementation |
+| Achievement | Impact | Technology |
+|-------------|---------|------------|
+| 🎯 **50+ Applications Delivered** | 95% Client Satisfaction | MERN Stack |
+| 👥 **8+ Developers Led** | 5 Different Nationalities | Agile/Scrum |
+| ⚡ **99.9% Uptime Achieved** | 100,000+ Users Served | Cloud Infrastructure |
+| 📊 **50,000+ Daily API Requests** | Enterprise Scale Performance | Node.js/Express |
+| 🔄 **Monolithic → Microservices** | 50+ RESTful APIs Developed | Architecture Design |
+| 🌍 **70% Latency Reduction** | Global Performance Optimization | CDN Implementation |
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 <div align="center">
 
 **🎓 Bachelor of Engineering** - University of Mumbai (2019)  
 *CGPA: 7.79/10*
 
-**📚 Specializations:**
+**📚 Key Strengths:**
 - Mathematical Principles & Data Analysis
-- Project Management & Leadership
+- Project Management & Team Leadership
 - Multidisciplinary Engineering Projects
 
 </div>
@@ -282,15 +235,30 @@ gantt
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basitbc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basitbc&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basitbc&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
 
 ### 🤝 Open for collaborations on:
 - 🚀 **Enterprise Web Applications**
-- 🌩️ **Cloud-Native Solutions**
+- 🌩️ **Cloud-Native Solutions**  
 - 🤖 **AI/ML Integration Projects**
 - 📱 **Mobile-First Experiences**
+- 🔗 **Microservices Architecture**
 
 <br>
 
@@ -301,6 +269,8 @@ gantt
 [![GitHub followers](https://img.shields.io/github/followers/basitbc?style=social)](https://github.com/basitbc)
 [![GitHub stars](https://img.shields.io/github/stars/basitbc?style=social)](https://github.com/basitbc)
 
+**📍 Available for:** Full-time opportunities, Freelance projects, Technical consulting
+
 </div>
 
 ---
@@ -310,5 +280,5 @@ gantt
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ by <strong>Basit Bilal Channa</strong></sub>
+  <sub>Built with ❤️ by <strong>Basit Bilal Channa</strong> | Srinagar, Jammu and Kashmir</sub>
 </div>
