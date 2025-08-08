@@ -1,8 +1,12 @@
 # 🚀 Basit Bilal Channa
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20•%20Cloud%20Architecture%20•%20Team%20Leadership&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20•%20Microservices%20•%20Team%20Leadership&descAlignY=55&descAlign=50" width="100%"/>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;4%2B+Years+Experience;50%2B+Production+Applications;MERN+Stack+Expert;Microservices+Specialist;Team+Leader+%26+Architect" alt="Typing SVG" />
+</p>
 
 <div align="center">
   
@@ -21,16 +25,18 @@
 const BasitChanna = {
     role: "Senior Full Stack Developer",
     experience: "4+ Years",
-    specialization: ["MERN Stack", "Cloud Architecture", "Team Leadership"],
+    specialization: ["MERN Stack", "Microservices", "Team Leadership"],
     achievements: {
         applications_delivered: "50+",
         client_satisfaction: "95%",
         team_size_managed: "8+ developers",
         uptime_achieved: "99.9%"
     },
-    current_focus: ["Digital Transformation", "Microservices", "DevOps"]
+    current_focus: ["Digital Transformation", "Microservices", "Enterprise Solutions"]
 };
 ```
+
+---
 
 ## 💻 Tech Arsenal
 
@@ -76,18 +82,6 @@ const BasitChanna = {
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitbc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basitbc&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -96,31 +90,127 @@ const BasitChanna = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
 
-> **Enterprise-grade certificate generation platform serving 50+ institutions**
-- 🔐 **Blockchain Integration**: Smart contracts for tamper-proof certification
-- 📊 **Scale**: 100,000+ certificates issued, 10,000+ daily API requests
-- 🛠️ **Tech Stack**: Node.js, Next.js, MongoDB, Docker, Azure
-- ⚡ **Performance**: 70% latency reduction via CDN optimization
+<div align="left">
 
-### 🤖 Marvel Minds - AI Job Portal
+**🎯 Project Overview:**  
+Enterprise-grade blockchain certificate generation platform revolutionizing digital credentials for educational institutions across the GCC region.
+
+**⚡ Key Features:**
+- 🔐 **Tamper-Proof Certificates**: Smart contract integration ensuring 100% document authenticity
+- 📊 **Massive Scale**: Serving 50+ educational institutions with 100,000+ certificates issued
+- 🚀 **High Performance**: Processing 10,000+ daily API requests with sub-second response times
+- 🌍 **Global CDN**: 70% latency reduction for international users
+- 🐳 **Containerized Deployment**: Docker containers ensuring consistent environments
+
+**🛠️ Technical Architecture:**
+```
+Frontend: Next.js + React.js + TypeScript
+Backend: Node.js + Express.js + MongoDB
+Blockchain: Smart Contracts + Web3 Integration
+Infrastructure: Docker + Nginx + Azure Cloud
+```
+
+**📈 Business Impact:**
+- ✅ **100% Document Authenticity** through blockchain verification
+- ✅ **Zero Security Breaches** since deployment
+- ✅ **50+ Institution Partnerships** across educational sector
+- ✅ **99.9% Platform Uptime** maintaining service reliability
+
+</div>
+
+---
+
+### 🤖 Marvel Minds - AI Job Portal Platform
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
 
-> **AI-powered job matching platform with 50,000+ users**
-- 🔍 **Smart Search**: Elasticsearch for sub-second queries across 1M+ listings
-- 🎯 **ML Matching**: 85% improvement in job match accuracy
-- 💰 **Revenue**: AED 500K+ monthly through premium features
-- 🌐 **Multilingual**: Arabic & English support
+<div align="left">
 
-### 🎬 AI Avatar & Audio Generator
+**🎯 Project Overview:**  
+Revolutionary AI-powered job matching platform connecting job seekers with opportunities using advanced machine learning algorithms and intelligent search capabilities.
+
+**⚡ Key Features:**
+- 🧠 **Smart Job Matching**: ML algorithms achieving 85% job match accuracy
+- 🔍 **Lightning Search**: Elasticsearch enabling sub-second queries across 1M+ job listings
+- 💰 **Revenue Generation**: Integrated premium features generating AED 500K+ monthly
+- 🌐 **Multilingual Support**: Full Arabic and English localization
+- 📱 **Mobile-First Design**: Responsive interface optimized for all devices
+
+**🛠️ Technical Stack:**
+```
+Frontend: React.js + Redux Toolkit + Responsive Design
+Backend: Node.js + Express.js + RESTful APIs
+Database: MongoDB + Elasticsearch + Redis Caching
+ML: Python + TensorFlow + Recommendation Engine
+Payment: Stripe Integration + Subscription Management
+```
+
+**📊 Platform Metrics:**
+- 👥 **50,000+ Active Users** across job seekers and employers
+- 🎯 **1M+ Job Listings** with real-time updates
+- ⚡ **Sub-second Search** response times with advanced filtering
+- 💼 **85% Match Accuracy** through AI-powered recommendations
+- 📈 **500K+ AED Monthly Revenue** from premium subscriptions
+
+**🏆 Technical Achievements:**
+- ✅ Built scalable microservices architecture handling high traffic
+- ✅ Implemented real-time notifications using WebSocket connections
+- ✅ Optimized database queries reducing response time by 60%
+- ✅ Created comprehensive admin dashboard with analytics
+- ✅ Integrated secure payment processing with fraud detection
+
+</div>
+
+---
+
+### 🎬 AI Avatar & Audio Generator Platform
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/basitbc)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel&logoColor=white)](https://basit.dev)
 
-> **Multimedia platform with AI-powered content generation**
-- 🎙️ **Voice Synthesis**: Real-time AI voice generation
-- 📹 **Video Processing**: 1,000+ concurrent video requests
-- ☁️ **Serverless**: AWS Lambda for 60% cost reduction
-- 🔄 **Real-time**: WebSocket progress tracking
+<div align="left">
+
+**🎯 Project Overview:**  
+Cutting-edge multimedia platform combining AI voice synthesis, avatar animation, and intelligent chatbot capabilities for content creators and businesses.
+
+**⚡ Advanced Features:**
+- 🎙️ **Real-time Voice Synthesis**: High-quality AI voice generation with multiple accents
+- 📹 **Avatar Animation**: Lifelike character animation synchronized with audio
+- 🤖 **Smart Chatbot**: Intelligent conversational AI with context awareness
+- 📊 **Analytics Dashboard**: Comprehensive usage statistics and performance metrics
+- 🔄 **Real-time Processing**: WebSocket connections for live progress tracking
+
+**🛠️ Advanced Architecture:**
+```
+Frontend: React.js + WebRTC + Real-time UI Updates
+Backend: Node.js + Express.js + WebSocket Server
+AI Processing: Python + TensorFlow + OpenAI APIs
+Media Processing: FFmpeg + WebRTC + Stream Processing
+Infrastructure: AWS Lambda + S3 + CloudFront CDN
+Monitoring: Custom Analytics + Performance Tracking
+```
+
+**⚡ Performance Optimizations:**
+- ☁️ **Serverless Computing**: AWS Lambda reducing operational costs by 60%
+- 🎬 **Video Pipeline**: Handling 1,000+ concurrent video generation requests
+- 📡 **Real-time Streaming**: WebSocket implementation for live updates
+- 🚀 **CDN Integration**: Global content delivery with 99.9% availability
+- 💾 **Smart Caching**: Redis implementation for frequently accessed content
+
+**📈 Platform Statistics:**
+- 🎬 **1,000+ Concurrent Requests** handled simultaneously
+- ⚡ **60% Cost Reduction** through serverless architecture
+- 📊 **Real-time Analytics** with custom dashboard
+- 🌍 **Global Reach** with multi-region deployment
+- 🔧 **99.9% Uptime** with automatic failover systems
+
+**🏆 Innovation Highlights:**
+- ✅ Pioneered real-time avatar animation with voice sync
+- ✅ Implemented advanced AI models for natural speech generation
+- ✅ Created scalable video processing pipeline with queue management
+- ✅ Built comprehensive API ecosystem for third-party integrations
+- ✅ Optimized for mobile devices with progressive web app features
+
+</div>
 
 </div>
 
@@ -200,6 +290,7 @@ gantt
 - 🚀 **Enterprise Web Applications**
 - 🌩️ **Cloud-Native Solutions**
 - 🤖 **AI/ML Integration Projects**
+- 📱 **Mobile-First Experiences**
 
 <br>
 
